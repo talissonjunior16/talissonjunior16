@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="https://instagram.com/c.levir">Instagram</a> •
   <a href="https://www.linkedin.com/in/talisson-junior">Linkedin</a>
 </p>
 
